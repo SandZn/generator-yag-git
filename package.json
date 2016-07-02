@@ -1,6 +1,6 @@
 {
   "name": "generator-yag-git",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Generator for Yeoman to init and config a project for Git",
   "main": "app/index.js",
   "scripts": {
