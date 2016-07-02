@@ -14,7 +14,7 @@ module.exports = generator.Base.extend({
     const done = this.async();
     const spawnOpts = {
       stdio: 'pipe',
-      encoding: 'utf-8',
+      encoding: 'utf8',
     };
 
     // Write .gitattributes file.
